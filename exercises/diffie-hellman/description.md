@@ -10,7 +10,7 @@ The test program supplies prime numbers p and g.
 
 ## Step 1
 
-Alice picks a private key, a, greater than 1 and less than p.  Bob does
+Alice picks a private key, a, greater or equal than 1 and less than p.  Bob does
 the same to pick a private key b.
 
 ## Step 2
